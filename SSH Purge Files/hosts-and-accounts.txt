@@ -1,0 +1,7 @@
+host=""
+username=""
+password=""
+
+accounts = {'user': 'pass',
+            'user': 'pass',
+            'user': 'pass'}
